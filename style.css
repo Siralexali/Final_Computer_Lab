@@ -14,3 +14,42 @@ div{
     margin-top: 115px;
     box-shadow: 5px 5px 5px rgba(31, 31, 31, 0.76);
 }
+.topic{
+    text-align: center;
+    font :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande" , "Lucida Sans Unicode",'Geneva', Verdana, sans-serif;
+    padding-top: 60px;
+    color: white;
+}
+form{
+    padding-top: 35px;
+}
+label{
+    margin-left: 30px;
+    color: white;
+    font :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande" , "Lucida Sans Unicode",'Geneva', Verdana, sans-serif;
+    padding-top: 5px;
+}
+input{
+    margin-left: 30px;
+    width: 270px;
+    border-radius: 50px;
+    background-color: rgba(170, 157, 255, 0.222);
+    height: 25px;
+    margin-bottom: 5px;
+}
+input:hover{
+    background-color: rgba(170, 157, 255, 0.429);
+}
+.text{
+    display: inline-block;
+    text-align: center;
+    color: white;
+    font :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande" , "Lucida Sans Unicode",'Geneva', Verdana, sans-serif;
+    margin-top: 40px;
+}
+li{
+    display: inline-block;
+}
+.one{
+    margin-left: 110px ;
+}
