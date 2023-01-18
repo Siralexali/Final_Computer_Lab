@@ -35,7 +35,7 @@ input{
     border-radius: 50px;
     background-color: rgba(170, 157, 255, 0.222);
     height: 25px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 input:hover{
     background-color: rgba(170, 157, 255, 0.429);
@@ -52,4 +52,34 @@ li{
 }
 .one{
     margin-left: 110px ;
+}
+.botten{
+    border-radius: 50%;
+    background-color: rgba(170, 157, 255, 1);
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    margin-top: 15px;
+}
+.botten:hover{
+    background-color: rgb(196, 187, 252);
+}
+.two{
+    margin-top: 5px;
+    color: white;
+    font :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande" , "Lucida Sans Unicode",'Geneva', Verdana, sans-serif;
+}
+.three{
+    font :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande" , "Lucida Sans Unicode",'Geneva', Verdana, sans-serif;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.in{
+    display: inline-block;
+    color: white;
+    font :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande" , "Lucida Sans Unicode",'Geneva', Verdana, sans-serif;
+}
+.finish{
+    margin-left: 125px;
 }
