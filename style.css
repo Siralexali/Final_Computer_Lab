@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+}
+html{
+    background: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
+    height: 100%;
+}
+div{
+    margin: 0px auto;
+    background-color: rgba(35, 28, 45, 0.899);
+    height: 430px;
+    width: 330px;
+    border-radius: 40px;
+    margin-top: 115px;
+    box-shadow: 5px 5px 5px rgba(31, 31, 31, 0.76);
+}
